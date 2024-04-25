@@ -1,0 +1,12 @@
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.Dice.url=https://github.com/DiceDB/dice.git
+remote.Dice.fetch=+refs/heads/*:refs/remotes/Dice/*
+remote.origin.url=https://github.com/Akhilesh-Git-hub/Dice-Game.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
